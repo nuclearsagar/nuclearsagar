@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuclearsagar
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Blockchain and Metaverse
-- 💞️ I’m looking to collaborate on Blockchain related products
+- 👀 I’m interested in Solving Engineering Problems
+- 🌱 I’m currently learning Business Process Automation
+- 💞️ I’m looking to collaborate on any open source platform
 - 📫 How to reach me - call or whats app on +91 8446601206
 
 <!---
